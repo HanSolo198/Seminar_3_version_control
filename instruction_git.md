@@ -88,3 +88,5 @@
     git checkout somefile.js
     
 **Ветвление**
+
+Ветвления в Git нужны для...
