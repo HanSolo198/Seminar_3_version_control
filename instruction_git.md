@@ -98,3 +98,4 @@
     git branch <newbranch>
 
 где <newbranch> имя создаваемой, новой ветки.
+
